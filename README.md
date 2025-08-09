@@ -20,7 +20,7 @@ This version is a **minimalist recreation** of the classic arcade game, built in
 
 
 ## 🧪 Devlog
-Learn about the design process, challenges, and lessons learned in the [Devlog post](#).
+Learn about the design process, challenges, and lessons learned in the [Devlog post](https://reda-adjab.itch.io/frogger-20gc/devlog/1005462/20-games-challenge-game-3-frogger).
 
 
 ## 📦 Build Info

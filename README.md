@@ -1,4 +1,4 @@
-# Frogger V1.0 – 20 Games Challenge (Game 2)
+# Frogger V1.0 – 20 Games Challenge (Game 3)
 
 This is the **third** game in my [20 Games Challenge](https://20_games_challenge.gitlab.io/challenge/#3) — a personal journey to improve my game development skills by creating 20 small games from scratch.
 
@@ -13,13 +13,13 @@ My game is a simple, minimalist recreation of the arcade game, made in Unity usi
 
 ## 🌐 Play The Game
 
-[Play or download the game on itch.io](https://reda-adjab.itch.io/jetpack-joyride-20gc)
+[Play or download the game on itch.io](https://reda-adjab.itch.io/frogger-20gc)
 
 
 
 ## 📝 Devlog
 
-Explore the development process, design decisions, and lessons learned in the [devlog post](https://reda-adjab.itch.io/jetpack-joyride-20gc/devlog/998504/20-games-challenge-game-2-jetpack-joyride).
+Explore the development process, design decisions, and lessons learned in the [devlog post](#).
 
 
 
